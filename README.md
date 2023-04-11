@@ -1,11 +1,11 @@
-<h1 align='center'>AI-In-Radiology</h1>
+<h1 align='center'>AI In Radiology</h1>
 
 **Hi, I'm Fraidoon! 👋, I am gonna implement deep learning models in medical images.**
 
 
 **************************************************************************************************************************************************************
 
-# 01 Pneumonia Classification in TF
+# 01 Pneumonia Classification with TF
 
 ## Steps to follow
 
