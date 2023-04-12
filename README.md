@@ -53,7 +53,7 @@ images
 **************************************************************************************************************************************************************
 **************************************************************************************************************************************************************
 
-# 02 Pneumonia With with PyTorch and PyTorch-lighting
+# 02 Pneumonia Detection with PyTorch and PyTorch-lightning
 
 ## Steps to follow
 
@@ -101,6 +101,26 @@ Processes
 
 
 **************************************************************************************************************************************************************
+**************************************************************************************************************************************************************
+
+# 03-Cardiac-Detection with PyTorch-lighting
+
+## Steps to follow
+
+- Load dataset from kaggle to colab and unzip it, upload the csv file to colab too
+- Display 
+- preprocess
+- create the dataset class
+- prepare the dataset for model training
+- Train model using pytorch-lighting
+- Evaluate the model
+
+## Dataset
+
+- [Dataset-Link](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
+
+
+**************************************************************************************************************************************************************
 
 # Installation
 
@@ -121,26 +141,6 @@ Processes
 
 
 **************************************************************************************************************************************************************
-# Installation
-
-- Visual Studio, Atom, PyCharm, Jypeter Notebook
-- Python
-- Numpy
-- Pandas
-- Matplotlib
-- Tensorflow
-- pytorch
-- pathlib
-- pydicom
-- cv2
-- PIL
-- os
-- tqdm
-- zipfile
-
-
-**************************************************************************************************************************************************************
-
 
 
 
